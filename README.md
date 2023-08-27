@@ -10,7 +10,7 @@ in order to run the project create a new bmp called 'aboutme', and make sure all
 
 - Install [DOSBox](https://www.dosbox.com/download.php?main=1)
 
- -Open DOSBox and run the game using these commands:
+- Open DOSBox and run the game using these commands:
 
  ```
  mount c: c:\
